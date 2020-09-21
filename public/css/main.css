@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    background-color: tomato;
+    color: white;
+    font-size: 25px;
+    width: 400px;
+    text-align: center;
+}
